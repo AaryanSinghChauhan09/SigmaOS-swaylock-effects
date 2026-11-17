@@ -3,7 +3,7 @@ name = "SigmaOS-swaylock-effects"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "swaylock-effects component"
+description = "SigmaOS SigmaOS-swaylock-effects component"
 upstream = []
 
 [contract]
